@@ -18,7 +18,7 @@ public class BufferEx {
 		bw.write("sakshu");
 		bw.close();
 		System.out.println("data written ");
-		System.out.println("added welcome");		
+		System.out.println("added welcome1");		
 	}
 
 }
