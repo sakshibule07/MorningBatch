@@ -14,6 +14,16 @@ public class TimeCal {
 		}
 		end = System.nanoTime();
 		System.out.println((end-start));
+		
+
+		start = System.nanoTime();
+		String str = "Welcome To ";
+		for(int i=1; i<=1000; i++) {
+			str+= "Logipool";
+			
+		}
+		end = System.nanoTime();
+		System.out.println((end-start));
 	}
 
 }
