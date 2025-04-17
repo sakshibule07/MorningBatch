@@ -25,7 +25,7 @@ public class DeveloperTest {
 		
 		
 		System.out.println(is.readObject());
-		
+		System.out.println();
 		
 		
 		
